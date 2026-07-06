@@ -4,7 +4,7 @@ This code example demonstrates the UART transmit and receive operation in an Inf
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce240769-uart-transmit-receive)
 
-[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NjkiLCJTcGVjIE51bWJlciI6IjAwMi00MDc2OSIsIkRvYyBUaXRsZSI6IlBETDogVUFSVCB0cmFuc21pdCBhbmQgcmVjZWl2ZSIsInJpZCI6ImtvamkubWl6dW1vdG9AaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIyLjIuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJBVVRPIiwiRG9jIEZhbWlseSI6IkFVVE8gTUNVIn0=)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NjkiLCJTcGVjIE51bWJlciI6IjAwMi00MDc2OSIsIkRvYyBUaXRsZSI6IlBETDogVUFSVCB0cmFuc21pdCBhbmQgcmVjZWl2ZSIsInJpZCI6ImtvamkubWl6dW1vdG9AaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIyLjMuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJBVVRPIiwiRG9jIEZhbWlseSI6IkFVVE8gTUNVIn0=)
 
 ## Requirements
 
@@ -264,6 +264,7 @@ Document title: *CE240769 – PDL: UART transmit and receive*
 | 2.0.0   | Updated to support ModusToolbox&trade; software v3.4 |
 | 2.1.0   | Added support for KIT_T2G-B-H_EVK, KIT_T2G-B-H_LITE and KIT_T2G_C-2D-4M_LITE, and updated to support ModusToolbox&trade; v3.7. |
 | 2.2.0   | Added support for KIT_T2G_B-H-16M_LITE |
+  2.3.0   | Updated design.modus of the KIT_T2G_B-H-16M_LITE and KIT_T2G_C-2D-4M_LITE for addressing CLK warning      |
 <br>
 
 All referenced product or service names and trademarks are the property of their respective owners.
